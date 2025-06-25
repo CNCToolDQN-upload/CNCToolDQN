@@ -12,6 +12,7 @@ The sample data (OP20_2A End mill) is downloadable at https://drive.google.com/f
 
 # How to run 
 How to run:
+
 python main.py --dir='C:/' --dir_savefigure= 'C:/' --gpu='0' --maxlen=300 --L= 1 --alpha=0.005 --tau=1
 --dir: Data directory. ex) "C:/Users/Desktop/Data/"
 --dir_savefigure : The directory to save TH score plot. ex) "C:/Users/Desktop/figure/"
